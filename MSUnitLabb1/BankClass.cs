@@ -106,7 +106,6 @@ namespace MSUnitLabb1
                 try
                 {
                     moneyAmount = money;
-                    Console.WriteLine("no");
                     isException = false;
                 }
                 catch (Exception)
