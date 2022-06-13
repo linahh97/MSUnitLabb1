@@ -55,6 +55,5 @@ namespace TestLabb1
             //Assert
             Assert.AreEqual(-1000, actual);
         }
-        //ingen if-sats som gör att man inte kan dra ut mer än det finns på kontot 
     }
 }
